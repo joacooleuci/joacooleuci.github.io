@@ -1,0 +1,13 @@
+@font-face {
+    font-family: FuenteDeComics;
+    src: url(ComicRelief-Bold.ttf);
+}
+h1{
+text-align: center;
+text-decoration: underline;
+margin-top: 20%;
+}
+body{
+font-family: FuenteDeComics;
+
+}
